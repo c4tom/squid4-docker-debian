@@ -1,4 +1,4 @@
-# squid-docker
+# squid4-docker-debian
 This is a squid (http://www.squid-cache.org/) docker image
 
 ## Notes about development
